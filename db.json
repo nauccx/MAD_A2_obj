@@ -55,5 +55,30 @@
   "marginFromTop":15
 }
 
-  ]
+  ],
+    "prod1": [
+    {
+      "name": "Dell Laptop i5 6500u, 8GB \n DDR4 RAM. With Genuine \n Windows 10 Pro",
+      "price": 289.76,
+	"discount":true,
+	"discount%":10,
+	"discounted_price": (prod1.price) - (prod1.price * prod1.discount%),
+      "rating": 4.3,
+      "reviewers": 718,
+      "prodImg": "https://www.lenovo.com/medias/lenovo-laptops-ideapad-5i-15-series-front-thumbnail.png?context=bWFzdGVyfHJvb3R8NTUwNjJ8aW1hZ2UvcG5nfGg1Yy9oZWMvMTEwOTQ1OTc0NjgxOTAucG5nfDc4NTkyNmU3NzUyYzkxYzU4OGI2YjQ4MmI1ZTlmMDc3NmVmOTFhYjI1NjBmZmI0YWJkM2UzMTljZmJlZThhZjU&w=480",
+      "imgw": 130,
+      "imgh": 135,
+      "marginFromTop": 0
+    },
+    {
+      "name": "HP Laptop i7 4th GEN, 16GB \n DDR3 RAM. With Windows 10 \n Professional Edition",
+      "price": 357.16,
+	"discount":false,
+      "rating": 4.8,
+      "reviewers": 433,
+      "prodImg": "https://www.transparentpng.com/thumb/laptop/YmlelI-laptops-png-images-notebook-png-image-laptop.png",
+      "imgw": 120,
+      "imgh": 99,
+      "marginFromTop": 10
+    }]
 }
