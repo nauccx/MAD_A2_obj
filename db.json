@@ -60,7 +60,7 @@
     {
       "name": "Dell Laptop i5 6500u, 8GB \n DDR4 RAM. With Genuine \n Windows 10 Pro",
       "price": 289.76,
-	"discount":true,
+	"discount":"yes",
 	"discountper":10,
 	"rating": 4.3,
       "reviewers": 718,
@@ -72,7 +72,7 @@
     {
       "name": "HP Laptop i7 4th GEN, 16GB \n DDR3 RAM. With Windows 10 \n Professional Edition",
       "price": 357.16,
-	"discount":false,
+	"discount":"no",
 	    "discountper":0,
       "rating": 4.8,
       "reviewers": 433,
