@@ -12,7 +12,7 @@
     "name": "typicode"
   },
   
-  "prod0": [
+  "prod0" : [
   
     {
         "id":1,
@@ -34,8 +34,8 @@
     "rating":4.3,
     "reviewers": 34890,
     "prodImg": "https://www.transparentpng.com/thumb/laptop/YmlelI-laptops-png-images-notebook-png-image-laptop.png",
-    "imgw": 120,
-    "imgh":99,
+    "imgw": 140,
+    "imgh":115,
     "marginFromTop":10
   },
   {
@@ -44,7 +44,7 @@
     "price":1099,
   "rating":4.2,
     "reviewers": 325,
-    "prodImg": "https://m.media-amazon.com/images/I/81PbOX7ZtaL._AC_SS450_.jpg",
+    "prodImg": "https://www.pngitem.com/pimgs/b/494-4943396_gaming-computer-png.png",
     "imgw": 128,
     "imgh":115,
     "marginFromTop":10
@@ -55,13 +55,12 @@
     "price": 839.99,
     "rating":4.6,
     "reviewers": 7461,
-    "prodImg": "https://m.media-amazon.com/images/I/81bc8mA3nKL._AC_SL1500_.jpg",
-    "imgw": 130,
-    "imgh":135,
-    "marginFromTop":5
+    "prodImg": "https://www.pngitem.com/pimgs/b/4-45375_acer-png.png",
+    "imgw": 145,
+    "imgh":85,
+    "marginFromTop":25
   }
-
-  ],
+],
     "prod1": [
     {
       "name": "Dell Laptop i5 6500u, 8GB \n DDR4 RAM. With Genuine \n Windows 10 Pro",
